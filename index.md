@@ -1,6 +1,7 @@
 <!doctype.html>
 <html>
  <head>
+  <title>fusslblobb</title>
  </head>
     <body>
       <h1>Fussl-Verpeilomaten-Blobb</h1>
