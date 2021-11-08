@@ -1,6 +1,6 @@
-<!doctype.html>
+<!doctype html>
 <html>
- <head>
+<head>
   <title>fusslblobb</title>
  </head>
     <body>
