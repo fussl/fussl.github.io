@@ -1,4 +1,3 @@
-<!doctype html>
 <html>
 <body>
       <h1>Fussl-Verpeilomaten-Blobb</h1>
