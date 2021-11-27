@@ -2,20 +2,16 @@ body {background-color: gainsboro;
       font-family: Courier new
 }
 h1 {font-family: Arial Black; 
-    font-style: normal; 
     color: green
 }
 h2 {font-family: Arial Black; 
-    font-style: normal; 
-    color: limegreen
+    color: green
 }
 h3 {font-family: Arial Black; 
-    font-style: normal; 
-    color: lawngreen
+    color: limegreen
 }
 h4 {font-family: Arial Black; 
-    font-style: normal; 
-    color: greenyellow
+    color: limegreen
 }
 a {
     color: purple
