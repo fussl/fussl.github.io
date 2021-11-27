@@ -1,4 +1,8 @@
-    body {background-color: gainsboro; font-family: Courier new}
+    body {
+        background-color: gainsboro; 
+        font-family: Courier new
+        text-align: center; 
+}
     h1 {font-family: Arial Black; color: forestgreen}
     a {color: limegreen}
-    img {margin: 5px; border-radius: 5px; }
+    img {margin: 5px; border-radius: 3px; }
