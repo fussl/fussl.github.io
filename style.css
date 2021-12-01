@@ -1,20 +1,24 @@
 body {background-color: gainsboro; 
       font-family: Courier new
 }
-h1 {font-family: Arial Black; 
-    color: green
+h1 {font-family: Arial;
+    font-weight: bolder; 
+    color: green;
 }
-h2 {font-family: Arial Black; 
-    color: green
+h2 {font-family: Arial;
+    font-weight: bold;  
+    color: green;
 }
-h3 {font-family: Arial Black; 
-    color: limegreen
+h3 {font-family: Arial;
+    font-weight: bold;  
+    color: limegreen;
 }
-h4 {font-family: Arial Black; 
-    color: limegreen
+h4 {font-family: Arial;
+    font-weight: bold;  
+    color: lime;
 }
 a {
-    color: purple
+    color: orange;
 }
 img {margin: 5px; 
     border-radius: 3px; 
