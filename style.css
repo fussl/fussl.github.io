@@ -26,8 +26,7 @@ a {
 }
 .langchoice-image {height: 150px;
 }
-.container {
-      max-width: 1000px;
+.container {width: 1000px;
       margin: auto;
       display: flex;
 }
