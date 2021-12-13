@@ -26,3 +26,6 @@ a {
 }
 .langchoice-image {height: 150px;
 }
+.alignright{position: absolute;
+      right: 5px;
+}
