@@ -26,3 +26,5 @@ a {
 }
 .langchoice-image {height: 150px;
 }
+.container {display: flex;
+}
