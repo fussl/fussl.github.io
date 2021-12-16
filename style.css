@@ -25,7 +25,8 @@ a {
     border-radius: 3px; 
     height: 500px;
 }
-.langchoice-image {height: 175px;
+.langchoice-image {height: 200px;
+    margin: 10px;
 }
 .container {border: solid; 
       display: flex;
