@@ -27,7 +27,7 @@ a {
 .container {
       border: solid; 
       display: flex;
-      flex-direction: column;
+      flex-direction: row;
       width: 1500px;
 }
 .illustration-image {
