@@ -25,13 +25,11 @@ a {
     margin: 10px;
 }
 .container {
-      border: solid; 
       display: flex;
       flex-direction: column;
-      width: 670px;
+      width: 700px;
 }
 .illustration-image {
-    border: solid; 
     margin: 10px;
     border-radius: 3px; 
     height: 500px;
