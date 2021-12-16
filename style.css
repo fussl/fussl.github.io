@@ -20,7 +20,8 @@ h4 {font-family: Arial;
 a {
     color: forestgreen;
 }
-.illustration-image {margin: 5%; 
+.illustration-image {margin: 5%;
+    border: solid; 
     border-radius: 3px; 
     height: 500px;
 }
@@ -29,5 +30,5 @@ a {
 .container {border: solid; 
       display: flex;
       flex-direction: column;
-      width: 800px;
+      width: 1200px;
 }
