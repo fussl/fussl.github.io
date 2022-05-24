@@ -1,7 +1,17 @@
 body {width: 100%;
-    background-color: gainsboro; 
+    background-color: #ffffff; 
       font-family: Courier new
 }
+header {
+width: 100%;
+background-color: #fcfbe1d9;
+}
+.langchoiceimg {
+    width: 15%;
+    padding-left: 7%;
+    padding-right: 7%;
+}
+
 h1 {font-family: Arial;
     font-weight: bolder; 
     color: green;
@@ -21,10 +31,7 @@ h4 {font-family: Arial;
 a {
     color: forestgreen;
 }
-.langchoice-image {
-    width: 15%;
-    padding: 7%;
-}
+
 .container {
       display: flex;
       flex-direction: column;
