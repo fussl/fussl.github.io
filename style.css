@@ -1,4 +1,5 @@
-body {background-color: gainsboro; 
+body {width: 100%;
+    background-color: gainsboro; 
       font-family: Courier new
 }
 h1 {font-family: Arial;
@@ -21,8 +22,8 @@ a {
     color: forestgreen;
 }
 .langchoice-image {
-    height: 200px;
-    margin: 10px;
+    width: 15%;
+    padding: 7%;
 }
 .container {
       display: flex;
