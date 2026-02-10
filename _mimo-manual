@@ -1,19 +1,28 @@
 % notizen
-% css file
-% 
+%
+% in css file
+% selector eg.  img{}, .random{}, #unique{}
 % border: solid 10px red
 % property: values
 % 
+% in html in opening tag of elements 
+% class="random" to assign same property to more
+% id="unique" to assign property to single element
+%    more uses with javascript
 % 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
-% 
+% openings and how2 apply styles in htmls
+% <head>
+%  <link rel="stylesheet"
+%        href="style.css"
+% or
+%  <style>
+%  h1
+%  {
+%  color: white; 
+%  }
+%  <\style>
+% <\head>
+% href and rel are attributes
 % 
 % 
 % 
